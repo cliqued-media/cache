@@ -1,6 +1,6 @@
 {
-    "name": "koolreport/cache",
-    "version":"1.2.0",
+    "name": "cliqued-media/cache",
+    "version":"1.0.0",
     "description": "Use cache to make your report faster",
     "keywords": ["PHP","php reprting tools","php reporting framework","mysql reporting tools","php cache"],
     "homepage": "https://www.koolreport.com",
